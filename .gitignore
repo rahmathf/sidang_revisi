@@ -1,0 +1,6 @@
+.vscode
+/writable/cache/*
+/writable/debugbar/*
+/writable/logs/*
+/writable/uploads/*
+/writable/session/*

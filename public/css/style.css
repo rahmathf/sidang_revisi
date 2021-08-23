@@ -1,0 +1,19 @@
+.sampul {
+  width: 100px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.detail {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.img-preview {
+  width: 50%;
+  height: 50%;
+  vertical-align: middle;
+}
